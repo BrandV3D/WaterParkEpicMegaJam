@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.644ff3d1-2a9d-4c91-82eb-4b5fa5fb2b02",
+  "RepoID": "dv.repo.ac3151e8-f9c2-4044-91bc-80fe95761eb7",
+  "Path": "C:\\Jams\\Epic\\HereWeGoAgain\\5_6\\ThemeParkWaterSlides\\WaterPark",
+  "AccountID": "Google_115875611559200227914",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "WaterPark",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
